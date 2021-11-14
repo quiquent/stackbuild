@@ -1,14 +1,3 @@
-# AdjustHomeTask
-Task : https://gist.github.com/kotik-adjust/4883e33c439db6de582fd0986939045c
-
-## Installation
-```bash
-git clone https://github.com/yagashiraevil/AdjustHomeTask.git
-cd AdjustHomeTask
-make install
-make run
-```
-
 ## Usage
 
 ##### Localy
