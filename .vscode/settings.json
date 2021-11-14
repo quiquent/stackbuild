@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "local",
+      "database": "C:\\Gaditek\\Personal\\AdjustHomeTask\\yagashi_adjust_home_task\\db.sqlite3"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
